@@ -1,5 +1,7 @@
 # HandTracking
-Tracking hands and gestures using [mediapipe](https://mediapipe.dev/) and tensorflow lite
+Tracking hands and gestures using [mediapipe](https://mediapipe.dev/) and tensorflow lite.
+
+![screenshot](screenshot.jpg)
 
 ## Usage (linux)
 Clone the repository
@@ -22,3 +24,4 @@ Run
 ```commandLine
 $ python main.py
 ```
+Press 'q' to exit.
